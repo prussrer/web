@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.Wanin.OpenFromUri",
+               "sha256_cert_fingerprints": ["24:52:64:62:7C:AA:66:9C:DB:C4:AB:F9:1A:33:9F:55:1F:F7:0F:0D:07:61:18:C3:D7:43:A7:0B:68:A0:F7:0C"] }
+}]
